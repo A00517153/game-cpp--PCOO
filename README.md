@@ -24,3 +24,5 @@ Informacion del codigo:
 	ambas cosas a la vez, se utiliza referencia al dato de ese objeto, permitiendo leer 
 	y modificar sus valores publicos para que no salga ningun error.
 
+Link GitHub:
+	https://github.com/A00517153/game-cpp--PCOO.git
